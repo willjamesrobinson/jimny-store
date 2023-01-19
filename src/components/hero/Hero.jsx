@@ -9,7 +9,7 @@ const Hero = () => {
   return (
     <div className={css.container}>
         <div className={css.h_sides}>
-            <span>Skin Creams</span>
+            <span className={css.text1}>1.5L JUICE BOX</span>
             <div className={css.text2}>
                 <span>Trendy</span>
                 <span>Trendy blah bloop blaaah rendy blah bloop blaaah rendy blah bloop blaaah</span> 
@@ -19,7 +19,7 @@ const Hero = () => {
         {/* middle side*/}
         <div className={css.wrapper}>
             <div className={css.blueCircle}></div>
-            <img src={HeroImg} alt="" width={600}/>
+            <img src={HeroImg} alt="" width={800}/>
             <div className={css.cart2}>
                 <RiShoppingBagFill/>
                 <div className={css.singup}>
@@ -42,7 +42,7 @@ const Hero = () => {
                 <span>100k</span>
                 <span>Monthly traffic</span>
             </div>
-            
+
         </div>
     </div>
   )
