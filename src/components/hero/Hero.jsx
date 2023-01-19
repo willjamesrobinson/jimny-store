@@ -13,10 +13,10 @@ const Hero = () => {
             <span className={css.text1}>1.5L JUICE BOX</span>
             <div className={css.text2}>
                 <span>We've got everything you need!</span>
-                <span>
+                {/* <span>
                     {" "}
                     Trendy blah bloop blaaah rendy blah bloop blaaah rendy blah bloop blaaah
-                </span> 
+                </span>  */}
             </div>
         </div>
         {/* middle side*/}
@@ -37,13 +37,13 @@ const Hero = () => {
         {/* right side*/}
         <div className={css.h_sides}>
             <div className={css.traffic}>
-                <span>100k</span>
+                <span>1.5m</span>
                 <span>Monthly traffic</span>
             </div>
 
             <div className={css.customers}>
                 <span>100k</span>
-                <span>Monthly traffic</span>
+                <span>Happy Customers</span>
             </div>
 
         </div>

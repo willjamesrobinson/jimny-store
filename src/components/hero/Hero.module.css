@@ -13,8 +13,8 @@
 
 .wrapper>img{
     width: 40rem;
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
 }
 
 .blueCircle{
@@ -89,7 +89,7 @@
 
 .text2>:first-child{
     font-weight: 800;
-    font-style: 2.5rem;
+    font-size: 2.5rem;
 }
 
 .text2>:nth-child(2){
@@ -104,7 +104,7 @@
 
 .traffic>:first-child {
     font-weight: 800;
-    font-style: 2.5rem;
+    font-size: 2.5rem;
 }
 
 .customers{
@@ -116,5 +116,5 @@
 .customers>:first-child{
     font-weight: 800;
     text-align: right;
-    font-style: 2.5rem;
+    font-size: 2.5rem;
 }
