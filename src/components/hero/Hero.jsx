@@ -8,13 +8,16 @@ import {BsArrowRight} from 'react-icons/bs'
 const Hero = () => {
   return (
     <div className={css.container}>
+        {/*left side */}
         <div className={css.h_sides}>
             <span className={css.text1}>1.5L JUICE BOX</span>
             <div className={css.text2}>
-                <span>Trendy</span>
-                <span>Trendy blah bloop blaaah rendy blah bloop blaaah rendy blah bloop blaaah</span> 
+                <span>We've got everything you need!</span>
+                <span>
+                    {" "}
+                    Trendy blah bloop blaaah rendy blah bloop blaaah rendy blah bloop blaaah
+                </span> 
             </div>
-
         </div>
         {/* middle side*/}
         <div className={css.wrapper}>
@@ -22,7 +25,7 @@ const Hero = () => {
             <img src={HeroImg} alt="" width={800}/>
             <div className={css.cart2}>
                 <RiShoppingBagFill/>
-                <div className={css.singup}>
+                <div className={css.signup}>
                     <span>Best Signup Offers</span>
 
                     <div>
@@ -45,7 +48,7 @@ const Hero = () => {
 
         </div>
     </div>
-  )
-}
+  );
+};
 
 export default Hero

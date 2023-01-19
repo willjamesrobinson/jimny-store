@@ -27,6 +27,46 @@
     background: linear-gradient(135deg, #B7B78A, #658563);
 }
 
+.cart2 {
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.cart2>svg{
+    width: 30px;
+    height: 30px;
+    background: white;
+    padding: 10px;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.signup {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    background: white;
+    padding: 10px;
+    font-size: 0.8rem;
+    border-radius: 15px;
+    box-shadow: var(--shadow1);
+}
+
+.signup>:first-child{
+    display: block;
+    width: 6rem;
+}
+
+.signup>:nth-child(2){
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+}
+
 .h_sides{
     display: grid;
     grid-template: 1fr 1fr;
