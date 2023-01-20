@@ -15,19 +15,19 @@ import img14 from '../assets/img14.png'
 
 export const SliderProducts = [{
     name: 'ROOF RACK',
-    detail: 'Full Size Jimny JB74 Roofrack',
+    detail: 'Full Size Roofrack',
     price: '999',
     img: img1
 },
 {
     name: 'JIMNY LEGO SET',
-    detail: '1732 Piece Limited Edition Set',
+    detail: 'Limited Edition Set',
     price: '89',
     img: img2
 },
 {
     name: 'BULL BAR',
-    detail: 'Jimny JB74 Bull Bar w/ Headlights',
+    detail: 'Bull Bar w/ Headlights',
     price: '1499',
     img: img3
 }
