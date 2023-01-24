@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import css from './Products.module.css'
-import Plane from '../../assets/plane.png'
 import { ProductsData } from "../../data/products";
 import {useAutoAnimate} from "@formkit/auto-animate/react"
 
