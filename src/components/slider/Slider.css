@@ -68,7 +68,7 @@
   /* transform 20deg*/
   position: absolute;
   right: 0;
-  width: 40%;
-  height: 100%;
-  bottom: -5%;
+  width: 50%;
+  height: 50%;
+  bottom: 0.5rem;
 }
