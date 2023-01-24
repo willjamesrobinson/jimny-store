@@ -1,5 +1,6 @@
 .s-container {
   position: relative;
+  margin-top: 30px;
 }
 
 .s-container .swiper{
@@ -42,7 +43,7 @@
 }
 
 .name>:nth-child(1){
-  font-size: 1.4rem;
+  font-size: 1.2rem;
   font-weight: 600;
 }
 

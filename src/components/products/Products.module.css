@@ -8,12 +8,12 @@
   justify-content: center;
 }
 
-.container>:nth-child(1){
+/* .container>:nth-child(1){
   position: absolute;
   width: 8rem;
   left: 30%;
   top: -3rem;
-}
+} */
 
 .products{
   display: grid;

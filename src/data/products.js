@@ -33,103 +33,103 @@ export const SliderProducts = [{
 }
 ]
 export const ProductsData = [{
-    name: 'SKIN',
-    detail: 'Super Skin Care',
-    price: '25',
+    name: 'ACCESSORY',
+    detail: 'Full Size Roofrack',
+    price: '999',
     img: img1,
-    type: 'skin care',
+    type: 'accessorie',
 },
 {
-    name: 'SKIN',
-    detail: 'Super Skin Care',
-    price: '30',
+    name: 'ACCESSORY',
+    detail: 'Jimny Lego Set',
+    price: '89',
     img: img2,
-    type: 'skin care',
+    type: 'accessorie',
 },
 {
-    name: 'NATURE',
-    detail: 'Super Skin Care',
-    price: '25',
+    name: 'ACCESSORY',
+    detail: 'Bull Bar w/ HEadlights',
+    price: '1499',
     img: img3,
-    type: 'skin care',
+    type: 'accessorie',
 },
 {
-    name: 'Foundation',
-    detail: 'Super Skin Care',
-    price: '25',
+    name: 'ACCESSORY',
+    detail: 'ARB Windscreen Sunshade',
+    price: '119',
     img: img4,
-    type: 'foundation',
+    type: 'accessorie',
 },
 {
-    name: 'CONDITIONER',
-    detail: 'Super Skin Care',
-    price: '30',
+    name: 'ACCESSORY',
+    detail: 'Rear Roof Cargo Shelf',
+    price: '290',
     img: img5,
-    type: 'conditioner',
+    type: 'accessorie',
 },
 {
-    name: 'NATURE',
-    detail: 'Super Skin Care',
-    price: '25',
+    name: 'ACCESSORY',
+    detail: 'Rear Side Window Panel',
+    price: '340',
     img: img6,
-    type: 'skin care',
+    type: 'accessorie',
 },
 {
-    name: "CONDITIONER",
-    details: 'Best Conditioner',
-    price: '30',
+    name: "OUTDOORS",
+    details: 'Roof Top Tent',
+    price: '1299',
     img: img7,
-    type: 'conditioner'
+    type: 'outdoors'
 }
 ,
 {
-    name: "CONDITIONER",
-    details: 'Best Conditioner',
-    price: '30',
+    name: "OUTDOORS",
+    details: '7.5L Fuel Pack',
+    price: '130',
     img: img8,
-    type: 'conditioner'
+    type: 'outdoors'
 },
 {
-    name: "CONDITIONER",
-    details: 'Best Conditioner',
-    price: '30',
+    name: "OUTDOORS",
+    details: 'Deck Chair',
+    price: '99',
     img: img9,
-    type: 'conditioner'
+    type: 'outdoors'
 },
 {
-    name: "CONDITIONER",
-    details: 'Best Conditioner',
-    price: '30',
+    name: "OUTDOORS",
+    details: 'Camping Table',
+    price: '89',
     img: img10,
-    type: 'conditioner'
+    type: 'outdoors'
 },
 {
-    name: "FOUNDATION",
-    details: 'Nourish your skin',
-    price: '12',
+    name: "OUTDOORS",
+    details: 'Coolmatic Drawer Fridge',
+    price: '1299',
     img: img11,
-    type: 'foundation'
+    type: 'outdoors'
 },
 {
-    name: "FOUNDATION",
-    details: 'Nourish your skin',
-    price: '12',
+    name: "RECOVERY",
+    details: '5,500lbs Winch',
+    price: '1499',
     img: img12,
-    type: 'foundation'
+    type: 'recovery'
 },
 {
-    name: "FOUNDATION",
-    details: 'Nourish your skin',
-    price: '12',
+    name: "RECOVERY",
+    details: 'Olive MaxTrax',
+    price: '399',
     img: img13,
-    type: 'foundation'
+    type: 'recovery'
 },
 {
-    name: "FOUNDATION",
-    details: 'Nourish your skin',
-    price: '12',
+    name: "RECOVERY",
+    details: 'Olive Mini MaxTrax ',
+    price: '299',
     img: img14,
-    type: 'foundation'
+    type: 'recovery'
 }
 
 ]
